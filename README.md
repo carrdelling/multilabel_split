@@ -1,9 +1,9 @@
 # multilabel_split
 Sample algorithm for stratified train/test split in multi-label problems
 
-Mostly for educational purposes - as some parts of the algorithm would need to be replace in a real-world setting.
+Mostly for educational purposes - as some parts of the algorithm would need to be replaced in a real-world setting.
 
-The are several papers online describing similar approaches, but sadly no free implentation for large-scale datasets, to the best of my knowledge.
+There are several papers online describing similar approaches, but sadly no free implentation for large-scale datasets - to the best of my knowledge.
 
 This specific implementation was (mostly) inpired by the following work:
  
